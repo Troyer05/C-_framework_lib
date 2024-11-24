@@ -1,2 +1,1 @@
-# C-_framework_lib
-C++ Library that acts like a framework
+https://github.com/Troyer05/C_framework_lib.git but for C++
